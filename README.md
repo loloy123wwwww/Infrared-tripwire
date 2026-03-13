@@ -13,6 +13,14 @@ IR receiver / https://www.laskakit.cz/ir-prijimac-5mm-940nm/     1X
 ESP32 / https://www.laskakit.cz/en/laskakit-esp32-devkit/   2X   
 battery / https://www.laskakit.cz/geb-li-ion-baterie-2x18650-1s2p-3-7v-6400mah/  2X    
 resistors / https://www.laskakit.cz/en/laskkit-sada-1000-rezistoru--34-hodnoty-1r-10m--20-az-50-kusu-na-jednu-hodnotu--0-25w-5-/         1X      
-LED diode(green, red) / [https://www.laskakit.cz/en/led-dioda-3mm/  ](https://www.laskakit.cz/en/led-dioda-5mm/)        2X GREEN, 1X RED  
+LED diode(green, red) / [https://www.laskakit.cz/en/led-dioda-3mm/  ](https://www.laskakit.cz/en/led-dioda-5mm/)        2X GREEN, 1X RED   
 
+
+
+
+Receiver:  
+4x M3 20mm screws, IR receiver, ESP32, SMD button, battery, resistors, Green and red LED  
+     
+Transmitter:  
+4X M3 20mm screws, IR Transmitter, ESP32, SMD button, battery, resistors, Green LED  
 
