@@ -19,7 +19,8 @@ Transmitter:
 4X M3 20mm screws, IR Transmitter, ESP32, SMD button, battery, resistors, Green LED  
 
 
-
+<details>
+     <summary>Click me to see about BOM</summary>
 
 | Name                                           | Link     | Price (CZK) | Price (USD) | Qty | Shipping (CZK) | Shipping (USD) | Total (CZK) | Total (USD) |
 | ---------------------------------------------- | -------- | ----------- | ----------- | --- | -------------- | -------------- | ----------- | ----------- |
@@ -39,13 +40,14 @@ Transmitter:
 ## Total CZK 2 373 CZK
 ## Total USD $116.03
 
+</details>
 
 
 
 
 
-
-
+<details>
+     <summary>Updates</summary>
 
 ## UPDATES:  
 ### 11.3.2026:  
@@ -57,5 +59,7 @@ Updated the prototype smoothered corners, added buttons and LEDS for better func
 ### 13.3.2026:  
 Update1, transmitter and receiver to have 3 pins meaning it will be better and faster + had to update CAD files so the new transmitter and receiver works well with the CAD   
 Update2, added wiring.md for this github repo, theres all wiring  
+Update3, made BOM file and customized github repo
 
+</details>
 
