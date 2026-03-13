@@ -35,6 +35,7 @@ made first prototype just the cad and decided what is the perfect fit for this p
 Updated the prototype smoothered corners, added buttons and LEDS for better functionality, made github REPO and uploaded v1 files    
 
 ### 13.3.2026:  
-Updated transmitter and receiver to have 3 pins meaning it will be better and faster + had to update CAD files so the new transmitter and receiver works well with the CAD   
+Update1, transmitter and receiver to have 3 pins meaning it will be better and faster + had to update CAD files so the new transmitter and receiver works well with the CAD   
+Update2, added wiring.md for this github repo, theres all wiring  
 
 
