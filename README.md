@@ -5,7 +5,9 @@ my project for hackclub, basicly its split into 2 sides 1 is receiver and other 
 
 
 
-things il need:   
+# things il need: 
+
+**components**  
 SMD button 6x6x8mm / https://www.laskakit.cz/en/tlacitko-smd-6x6x8mm/      2X  
 M3 20mm screw / https://www.prumex.cz/sroub-zapustny-phillips-din-965-m3x20-pozink/    8X  
 IR transmitter / https://www.laskakit.cz/en/ir-infracerveny-vysilac-38khz-modul/       1X   
@@ -15,6 +17,11 @@ battery / https://www.laskakit.cz/geb-li-ion-baterie-2x18650-1s2p-3-7v-6400mah/ 
 resistors / https://www.laskakit.cz/en/laskkit-sada-1000-rezistoru--34-hodnoty-1r-10m--20-az-50-kusu-na-jednu-hodnotu--0-25w-5-/         1X      
 LED diode(green, red) / https://www.laskakit.cz/en/led-dioda-5mm/        2X GREEN, 1X RED   
 
+**extras**  
+Something to solder with / https://allegro.cz/produkt/cin-cynel-0-7-mm-100-g-99e5d961-6ab8-4671-8a9c-d044c9a1d741   1X   
+these male pins so i can reuse the esps without having to desolder them / https://www.laskakit.cz/en/pinovy-pas-40pin-2-54-mm-oboustranny-kolik/  2X   
+insulating tape so there is no short circuit / https://www.laskakit.cz/en/izolacni-lepici-paska-16mm/  1X  
+some m-f / https://www.laskakit.cz/en/dupont-propojovaci-kabely-40ks-m-f-samec-samice--10cm-/  1X  
 
 
 
