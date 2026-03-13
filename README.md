@@ -1,17 +1,40 @@
 # Infrared-tripwire
-my project for hackclub, basicly its split into 2 sides 1 is receiver and other is transmiter, how it works is when the beam of infrared light is active(meaning none object is in its way), its good but when the receiver is not seeing the light it can send wifi signal
+My project for hackclub, basicly its split into 2 sides 1 is receiver and other is transmiter, how it works is the transmitter repeatedly sends infrared light the receiver expects it if it doesnt see it(something is blocking it), it sends that to the ESP32
 
 
 
 
-
-Receiver:  
-4x M3 20mm screws, IR receiver, ESP32, SMD button, battery, resistors, Green and red LED  
+## what do both parts do?
+<details>
+     <summary>Receiver</summary>
      
-Transmitter:  
+**what does it use?**  
+4x M3 20mm screws, IR receiver, ESP32, SMD button, battery, resistors, Green and red LED  
+**how does it work?**  
+It expect an infrared light from transmitter, when it doesnt get it, the esp32 detects it.   
+</details>    
+<details>
+     <summary>Transmitter</summary>
+     
+**what does it use?**
 4X M3 20mm screws, IR Transmitter, ESP32, SMD button, battery, resistors, Green LED  
+**how does it work?**
+it sends infrared light repeatedly over and over again
+     
+</details>
+<details>
+     <summary>How do they work together?</summary>
+Its pretty simple they both relly on each other, one streams infrared light other expects it, if the light is blocked and the receiver doesnt see the light anymore. it sends a comand to microcontroller.  
+     
+Btw infrared light is not visible to human eye so it is lowkey stealth
+     
+</details>
 
 
+
+
+
+**Here is BOM**
 <details>
      <summary>Click me to see about BOM</summary>
 
@@ -39,7 +62,7 @@ Transmitter:
 
 
 
-
+## Updates
 <details>
      <summary>Updates</summary>
 
