@@ -5,13 +5,6 @@ my project for hackclub, basicly its split into 2 sides 1 is receiver and other 
 
 
 
-# things il need: 
-
-**components**  
-M3 20mm screw / https://www.prumex.cz/sroub-zapustny-phillips-din-965-m3x20-pozink/    8X  
-
-
-
 Receiver:  
 4x M3 20mm screws, IR receiver, ESP32, SMD button, battery, resistors, Green and red LED  
      
