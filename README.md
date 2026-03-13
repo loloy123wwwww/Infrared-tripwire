@@ -20,7 +20,7 @@ LED diode(green, red) / https://www.laskakit.cz/en/led-dioda-5mm/        2X GREE
 **extras**  
 Something to solder with / https://allegro.cz/produkt/cin-cynel-0-7-mm-100-g-99e5d961-6ab8-4671-8a9c-d044c9a1d741   1X   
 these male pins so i can reuse the esps without having to desolder them / https://www.laskakit.cz/en/pinovy-pas-40pin-2-54-mm-oboustranny-kolik/  2X   
-insulating tape so there is no short circuit / https://www.laskakit.cz/en/izolacni-lepici-paska-16mm/  1X  
+insulating tape so there is no short circuit / https://www.alza.cz/hobby/yato-paska-izolacni-250-19-mm20-m-cerna-d7772288.htm  1X  
 some m-f / https://www.laskakit.cz/en/dupont-propojovaci-kabely-40ks-m-f-samec-samice--10cm-/  1X  
 USB-C to USB-A for uploading firmware / https://www.alza.cz/alzapower-core-usb-c-3-1-gen1?dq=5472812  
 
