@@ -1,7 +1,7 @@
 Name,Link,Price (CZK),Price (USD),Qty,Shipping (CZK),Shipping (USD),Total (CZK),Total (USD)
 IR transmitter,https://www.laskakit.cz/en/ir-infracerveny-vysilac-38khz-modul/,18,$0.88,1,0,$0.00,18,$0.88
 IR receiver (VS1838B),https://www.laskakit.cz/ir-prijimac-vs1838b/,6,$0.29,1,0,$0.00,6,$0.29
-ESP32-DEVKit,https://rpishop.cz/esp32-a-esp8266/3884-dfrobot-firebeetle-2-esp32-e-iot-mikrokontroler-s-podporou-wi-fi-bluetooth.html,796,$38.91,2,0,$0.00,796,$38.91
+ESP32-DEVKit,https://rpishop.cz/esp32-a-esp8266/3884-dfrobot-firebeetle-2-esp32-e-iot-mikrokontroler-s-podporou-wi-fi-bluetooth.html,653,?.91,2,0,$0.00,796,$38.91
 GeB Li-Ion Battery 2x18650 1S2P 3.7V 6400mAh,https://www.laskakit.cz/geb-li-ion-baterie-2x18650-1s2p-3-7v-6400mah/,596,$29.15,2,0,$0.00,596,$29.15
 Resistors set,https://www.laskakit.cz/en/laskkit-sada-1000-rezistoru--34-hodnoty-1r-10m--20-az-50-kusu-na-jednu-hodnotu--0-25w-5-/,298,$14.57,1,0,$0.00,298,$14.57
 LED diode 5mm (Green),https://www.laskakit.cz/en/led-dioda-5mm/,4,$0.20,2,0,$0.00,4,$0.20
